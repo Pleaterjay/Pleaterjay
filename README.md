@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Pleaterjay
+- 👋 Hi, myself @Pleaterjay
 - 👀 I’m interested in electrical, electronic experiments
-- 🌱 I’m currently learning . 
-- 💞️ I’m looking to collaborate on .
+- 🌱 I’m currently learning . Same cource as my intrest
+- 💞️ I’m looking to collaborate on. 
 - 📫 How to reach me ...
 
 <!---
