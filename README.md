@@ -1,4 +1,4 @@
-- 👋 Hi, myself @Pleaterjay
+- 👋 Hi, myself @ArjunVinod
 - 👀 I’m interested in electrical, electronic experiments
 - 🌱 I’m currently learning . Same cource as my intrest
 - 💞️ I’m looking to collaborate on. 
